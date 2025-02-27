@@ -8,12 +8,7 @@ const teachers = [
   'Luca'
 ]; // NON MODIFICARE QUESTA VARIABILE
 
-for (let i = 0; i < teachers.length; i++) {
-  let curTeacher = teachers[i];
-  console.log(curTeacher);
-  
-  
-}
+
 
 
 
@@ -52,5 +47,4 @@ const edIndex = teachers.indexOf("Ed");
 console.log(edIndex);
 teachers.splice(edIndex,1);
 console.log(teachers);
-
 
