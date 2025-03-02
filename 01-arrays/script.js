@@ -38,7 +38,7 @@ console.log(teachers);
 
 
 // 5. Aggiungi un insegnante di nome 'Vanessa' alla fine dell'array teachers
-const newLastTeacher = ["Nathan", "Ed", "Fabio", "Phil", "Carlo", "Lewis", "Luca"];
+
 
 teachers.push("Vanessa");
 console.log(teachers);
